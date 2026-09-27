@@ -1,3 +1,4 @@
+package Thread;
 public class DemoRace {
     public static void main(String[] args) throws InterruptedException {
         counter  c1 =new counter();

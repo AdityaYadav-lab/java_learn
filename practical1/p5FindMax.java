@@ -1,4 +1,4 @@
-public class FindMax {
+public class p5FindMax {
     public static void main (String arg[]){
         int a=-2;
         int b=-40;

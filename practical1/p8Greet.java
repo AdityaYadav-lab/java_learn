@@ -1,4 +1,4 @@
-public class Greet {
+public class p8Greet {
     public static void main (String arg []){
         int mark;
         mark=Integer.parseInt(arg[0]);

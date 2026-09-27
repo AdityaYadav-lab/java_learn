@@ -1,4 +1,4 @@
-public class equation {
+public class p4equation {
     public static void main (String [] arg ){
         int a =10;
         int b=5;

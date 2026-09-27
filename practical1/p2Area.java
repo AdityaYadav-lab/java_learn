@@ -1,4 +1,4 @@
-public class Area {
+public class p2Area {
     public static void main(String arg[]){
         int r=2;
         double pi=3.14;

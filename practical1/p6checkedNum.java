@@ -1,4 +1,4 @@
-public class checkedNum {
+public class p6checkedNum {
     public static void main(String arg []){
         int a =24;
         if(a%2==0){

@@ -1,3 +1,4 @@
+package Thread;
 public class SyncThread {
     public static void main(String[] args) {
         Test t1 =new Test();

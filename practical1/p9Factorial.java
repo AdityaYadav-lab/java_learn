@@ -1,4 +1,4 @@
-public class Factorial {
+public class p9Factorial {
     public static void main (String arg []){
         int n;
         int fact =1;

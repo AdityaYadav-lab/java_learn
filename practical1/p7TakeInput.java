@@ -1,4 +1,4 @@
-public class TakeInput {
+public class p7TakeInput {
     public static void main (String arg []){
         String name;
         int age;

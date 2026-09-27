@@ -1,3 +1,4 @@
+package Thread;
 public class ThreadJoin {
      public static void main (String args[]){
         System.out.println("Main thread start");

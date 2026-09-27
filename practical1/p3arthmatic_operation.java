@@ -1,6 +1,6 @@
 // java token 
 
-public class arthmatic_operation {
+public class p3arthmatic_operation {
     public static void main (String arg []){
         int a=10;
         int b=20;

@@ -1,3 +1,4 @@
+package Thread;
 public class DemonThread {
     public static void main(String[] args) {
         Thread T1 =new Thread (() ->{
