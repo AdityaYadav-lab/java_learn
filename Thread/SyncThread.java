@@ -6,6 +6,8 @@ public class SyncThread {
         Thread p1 =new Thread(() -> t1.show());
 
         Thread p2 =new Thread(() -> t1.show());
+        p1.start();
+        p2.start();
     }
 }
 
